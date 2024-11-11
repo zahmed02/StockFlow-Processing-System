@@ -1,0 +1,5 @@
+ID      Product     Quantity  Price      Category    Status
+  1       Spoon         45     25.00     Utensils   Deposit
+  2        Bulb         15     50.00  Electronics   Deposit
+  3    Football         60     30.00 Sports Equipment   Deposit
+  4         Pen        100     12.00 Study Material   Deposit

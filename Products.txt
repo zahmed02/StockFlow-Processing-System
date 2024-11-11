@@ -1,0 +1,5 @@
+ID      Product     Quantity  Price    Category
+  1       Spoon         45     25.00   Utensils
+  2        Bulb         15     50.00 Electronics
+  3    Football         60     30.00 Sports Equipment
+  4         Pen        100     12.00 Study Material
