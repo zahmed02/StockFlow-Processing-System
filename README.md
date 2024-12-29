@@ -27,11 +27,9 @@
 ### Input Requirements
 
 ### Logging In
-
 1. Open the program.
 2. Enter your username and password as stored in **`login.txt`**.
    - **Format:** `username password`
 3. If login fails, retry up to 3 times before the program exits.
-
 - Ensure **`login.txt`** is present in the directory with valid credentials.  
   - **Format:** `username password`
