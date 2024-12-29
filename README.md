@@ -22,7 +22,7 @@
   (uses `conio.h` and `windows.h` libraries).
 
 - **C Compiler**  
-  (e.g., GCC or Turbo C).
+  (e.g., GCCm, Turbo C, Dev C++, VSC).
 
 ### Input Requirements
 
